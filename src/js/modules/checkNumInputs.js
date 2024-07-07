@@ -8,4 +8,4 @@ const checkNumInputs = selector => {
 	});
 };
 
-export default checkNumInputs;
+export default checkNumInputs;  
